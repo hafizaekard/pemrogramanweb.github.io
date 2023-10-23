@@ -1,0 +1,41 @@
+/* 1. Mengganti warna latar belakang header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* 2. Mengatur gaya teks pada judul website */
+.judul-website {
+    margin: 0;
+}
+
+/* 3. Mengatur lebar gambar logo */
+.logo {
+    max-width: 100px;
+    height: auto;
+}
+
+/* 4. Mengganti warna latar belakang sidebar */
+aside {
+    background-color: #9a9a9a;
+    color: #fff;
+    width: 20%;
+    padding: 20px;
+}
+
+/* 5. Mengatur gaya teks pada konten utama */
+.konten-utama {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 10px; 
+    background-color: rgb(0, 0, 0); 
+    color: white; 
+    justify-content: center; 
+    height: 50px; 
+    display: flex; 
+    align-items: center;
+}
